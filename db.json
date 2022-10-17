@@ -1,0 +1,133 @@
+{
+  "sections-menu": [
+    {
+      "id": 101,
+      "name": "Главная",
+      "href": "home"
+    },
+    {
+      "id": 102,
+      "name": "Каталог изделий",
+      "href": "applicationsection"
+    },
+    {
+      "id": 103,
+      "name": "Подбор",
+      "href": "superoffer"
+    },
+    {
+      "id": 104,
+      "name": "Контакты",
+      "href": "contacts"
+    }
+  ],
+  "products": [
+    {
+      "article": 1000001,
+      "image": "product1",
+      "name": "Торт Бисквитный",
+      "text": "Сдержанный, но в то же время очень нежный торт с ягодами",
+      "price": 2150,
+      "available": true,
+      "category": [
+        "christmas",
+        "kids",
+        "other"
+      ]
+    },
+    {
+      "article": 1000002,
+      "image": "product2",
+      "name": "Кулич Краффин",
+      "text": "Популярный рецепт красивой и праздничной выпечки",
+      "price": 1750,
+      "available": true,
+      "category": [
+        "wedding",
+        "other"
+      ]
+    },
+    {
+      "article": 1000003,
+      "image": "product3",
+      "name": "Торт 'Банан-апельсин'",
+      "text": "Ароматный, пропитанный бананом и апельсином, сладкий торт!",
+      "price": 1100,
+      "available": true,
+      "category": [
+        "christmas",
+        "kids"
+      ]
+    },
+    {
+      "article": 1000004,
+      "image": "product4",
+      "name": "Торт Красный бархат",
+      "text": "Эффектный десерт с неповторимым вкусом и кремом, таящим во рту",
+      "price": 5300,
+      "available": true,
+      "category": [
+        "kids"
+      ]
+    },
+    {
+      "article": 1000005,
+      "image": "product5",
+      "name": "рулет Дамский каприз",
+      "text": "Праздничный сочный и рулет с фруктами",
+      "price": 750,
+      "available": false,
+      "category": [
+        "kids",
+        "festive"
+      ]
+    },
+    {
+      "article": 1000006,
+      "image": "product6",
+      "name": "Торт 'Pinky'",
+      "text": "Нежный свадебный торт, изобилующий ягодками",
+      "price": 2150,
+      "available": true,
+      "category": [
+        "wedding",
+        "kids"
+      ]
+    },
+    {
+      "article": 1000007,
+      "image": "product7",
+      "name": "Торт С Днем Рождения",
+      "text": "Торт с индивидуальным декором. Начинка - кофе+шоколад",
+      "price": 1350,
+      "available": true,
+      "category": [
+        "christmas",
+        "other"
+      ]
+    },
+    {
+      "article": 1000008,
+      "image": "product8",
+      "name": "Капкейки 'Красный бархат'",
+      "text": "Эти невероятно мягкие и нежные капкейки никого не оставят равнодушным",
+      "price": 1350,
+      "available": true,
+      "category": [
+        "kids"
+      ]
+    },
+    {
+      "article": 1000009,
+      "image": "product9",
+      "name": "Торт Прага Классический",
+      "text": "Нежный бисквит с шоколадным вкусом, который уже стал классическим",
+      "price": 4150,
+      "available": true,
+      "category": [
+        "christmas",
+        "festive"
+      ]
+    }
+  ]
+}
