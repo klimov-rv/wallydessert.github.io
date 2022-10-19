@@ -40,7 +40,7 @@
       "image": "product2",
       "name": "Кулич Краффин",
       "text": "Популярный рецепт красивой и праздничной выпечки",
-      "price": 1750,
+      "price": 100,
       "available": true,
       "category": [
         "wedding",
@@ -111,7 +111,7 @@
       "image": "product8",
       "name": "Капкейки 'Красный бархат'",
       "text": "Эти невероятно мягкие и нежные капкейки никого не оставят равнодушным",
-      "price": 1350,
+      "price": 300,
       "available": true,
       "category": [
         "kids"
