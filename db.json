@@ -4,21 +4,6 @@
       "id": 101,
       "name": "Главная",
       "href": "home"
-    },
-    {
-      "id": 102,
-      "name": "Каталог изделий",
-      "href": "applicationsection"
-    },
-    {
-      "id": 103,
-      "name": "Подбор",
-      "href": "superoffer"
-    },
-    {
-      "id": 104,
-      "name": "Контакты",
-      "href": "contacts"
     }
   ],
   "products": [
